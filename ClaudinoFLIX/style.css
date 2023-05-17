@@ -16,3 +16,12 @@ h2{
     grid-template-columns: 32% 32% 32% ;
     grid-template-columns: 32% 32% 32%;
 }
+.containerbotao{
+    background-color: green;
+    color: black;
+    font-size: 22px;
+    border-radius: 7px;
+}
+.botao{
+    text-align: center;
+}
